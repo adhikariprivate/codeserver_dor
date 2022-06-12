@@ -1,3 +1,3 @@
-FROM ghcr.io/linuxserver/code-server
+FROM gitpod/openvscode-server
 
-EXPOSE 8443
+EXPOSE 3000
